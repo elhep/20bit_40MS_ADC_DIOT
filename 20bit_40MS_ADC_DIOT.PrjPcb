@@ -502,6 +502,10 @@ Variation82=Designator=T20|UniqueId=\OKBBSTFG\NVZTMRHO|Kind=1|AlternatePart=
 Variation83=Designator=R153|UniqueId=\OKBBSTFG\NPADBISH|Kind=1|AlternatePart=
 ParamVariationCount=0
 
+[Parameter1]
+Name=Revision
+Value=1.0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
