@@ -44,7 +44,7 @@ CrossRefPorts=0
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=DIOT
+CurrentVariant=EEM
 
 [Preferences]
 PrefsVaultGUID=
@@ -395,7 +395,7 @@ UniqueId=f42d53c0-3bf0-4de7-be45-ea45db2535d2
 Description=DIOT
 AllowFabrication=0
 ParameterCount=0
-VariationCount=14
+VariationCount=15
 Variation1=Designator=IC35|UniqueId=\HJDLGDXC\RJOGTAZW|Kind=1|AlternatePart==Device
 ParamVariation1=ParameterName=Comment|VariantValue==Device
 ParamDesignator1=IC35
@@ -426,6 +426,7 @@ Variation11=Designator=C219|UniqueId=\PBVRSPHS\WQBWDHNI|Kind=1|AlternatePart=
 Variation12=Designator=IC44|UniqueId=\PBVRSPHS\RTXDXYRA|Kind=1|AlternatePart=
 Variation13=Designator=C307|UniqueId=\PBVRSPHS\XLTRLVXN|Kind=1|AlternatePart=
 Variation14=Designator=IC45|UniqueId=\PBVRSPHS\OGSHSMYP|Kind=1|AlternatePart=
+Variation15=Designator=BUSH1|UniqueId=\JIVLYGZW\KODRWUYG|Kind=1|AlternatePart=
 ParamVariationCount=8
 
 [ProjectVariant2]
@@ -433,7 +434,7 @@ UniqueId=5e619710-5d93-45c8-ad96-c67acee4983a
 Description=EEM
 AllowFabrication=0
 ParameterCount=0
-VariationCount=83
+VariationCount=84
 Variation1=Designator=IC35|UniqueId=\HJDLGDXC\RJOGTAZW|Kind=1|AlternatePart=
 Variation2=Designator=R125|UniqueId=\HJDLGDXC\EDMJRLII|Kind=1|AlternatePart=
 Variation3=Designator=C157|UniqueId=\HJDLGDXC\EQANFEHR|Kind=1|AlternatePart=
@@ -517,6 +518,7 @@ Variation80=Designator=T19|UniqueId=\OKBBSTFG\LBCBVMLF|Kind=1|AlternatePart=
 Variation81=Designator=R184|UniqueId=\OKBBSTFG\ETTVHPTQ|Kind=1|AlternatePart=
 Variation82=Designator=T20|UniqueId=\OKBBSTFG\NVZTMRHO|Kind=1|AlternatePart=
 Variation83=Designator=R153|UniqueId=\OKBBSTFG\NPADBISH|Kind=1|AlternatePart=
+Variation84=Designator=BUSH1|UniqueId=\JIVLYGZW\KODRWUYG|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
